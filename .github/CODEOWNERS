@@ -1,0 +1,6 @@
+## any code changes will send PR to following users
+* @jessewheeler
+## any LWC/JS changes will send PR to following users
+*.css *.js *.html @timswilson
+## any Apex changes will send PR to following users
+*.cls *.trigger @timswilson
